@@ -42,12 +42,12 @@ int main(){
     double time_in_minutes;
     clock_t time_in_seconds;
     
+    srand(time(NULL));
     char *s = paragraphs[rand() % (sizeof(paragraphs)/sizeof(paragraphs[0]))+1];
     
     printf("%s",s);
     for (int i=0;i<strlen(s)/LINES;i++) printf("\033[F");
-    
-    srand(time(0));
+
     while (i<strlen(s)){
         char key = getch();
         if (i==0) time_in_seconds=clock(); // Begins the timer when first key is pressed.
