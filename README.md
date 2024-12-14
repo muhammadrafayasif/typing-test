@@ -1,5 +1,5 @@
 # Typing Test
-This is a console based application that calculates WPM (Words Per Minute) of a user, the program is built-in with ten paragraphs, the program may choose any random paragraph from among it.
+This is a console based application that calculates WPM (Words Per Minute) of a user, the program is built-in with a few paragraphs, the program may choose any random paragraph from among it.
 
 ![Typing Test](https://lh3.googleusercontent.com/pw/AP1GczMShsuBT5k1eEjOwSz5yOZfQ1nmZcL3uJrmF2bLt7pARFn66GpWNrdVxHHY7UctxfK-5Sp5kY4f4C14bXDLMLOcjbrB7L-BIRuQTvJ45F22u6OgNs7L7KfH9-XcmF8DasGVKCMae7AR-MtooiRIity_=w1092-h342-s-no?authuser=0)
 # Functionality
